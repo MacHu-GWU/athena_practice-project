@@ -1,0 +1,7 @@
+boto3
+pandas
+pyarrow
+s3iotools==0.0.2
+faker
+PyAthena==1.5.0
+rolex==0.0.8
